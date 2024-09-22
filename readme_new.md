@@ -17,4 +17,11 @@
 ## Python Website
 Link to official python website [python] (https://www.python.org)
 
+## Screenshot of Package Installation
+![screenshot of matplotlib installation](users/mayagollamudi/ds-217-02-git-mayakg01/Assignment2_InstallationScreenshot.png "matplotlib installation")
+
+
+## Meme Image
+![funny meme](https://images.app.goo.gl/rEhRCE8QGc4MBy8L7)
+
 

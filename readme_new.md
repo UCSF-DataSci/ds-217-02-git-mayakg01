@@ -18,11 +18,13 @@
 Link to official python website [python] (https://www.python.org)
 
 ## Screenshot of Package Installation
-[screenshot of matplotlib installation](screenshots/Assignment2_InstallationScreenshot.png "matplotlib installation")
+![screenshot of matplotlib installation](Assignment2_InstallationScreenshot.png)
+
 
 
 ## Meme Image
-[pikachu meme](https://www.boredpanda.com/blog/wp-content/uploads/2024/09/Pokemon-meme-2-66e04459596ae__700.jpg)
+![pikachu meme](https://www.boredpanda.com/blog/wp-content/uploads/2024/09/Pokemon-meme-2-66e04459596ae__700.jpg)
+
 
 
 
